@@ -1,0 +1,9 @@
+div > img {
+    position:absolute;
+    top:50%;
+    min-height:100%;
+    display:block;
+    left:50%;
+    -webkit-transform: translate(-50%, -50%);
+    min-width:100%;
+}

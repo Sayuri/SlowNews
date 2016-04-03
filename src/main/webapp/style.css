@@ -1,0 +1,16 @@
+.news_container {
+    margin: auto;
+    width: 80%;
+}
+.news_image {
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+.news_text {
+    margin: 10px 10px 10px 10px;
+}
+.archiveStatus {
+    color: yellowgreen;
+}
